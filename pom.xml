@@ -3,6 +3,8 @@
   <groupId>com.me</groupId>
   <artifactId>course</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  
   
   <parent>
     <groupId>org.springframework.boot</groupId>
